@@ -1,7 +1,7 @@
 # 5SFE-Idle-Valve-Control
 Arduino control idle valve for 5SFE engine
 
-#Parts
+# Parts
 - Arduino UNO or mini
 - [H-Bridge Motor Driver 1A](https://www.sparkfun.com/products/315)
 - [Temperature sensor](https://www.sparkfun.com/products/14049)
@@ -9,4 +9,4 @@ Arduino control idle valve for 5SFE engine
 - Automotive connector
 - Two components adhesive
 
-#Installation
+# Installation
