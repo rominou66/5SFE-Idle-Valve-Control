@@ -8,5 +8,3 @@ Arduino control idle valve for 5SFE engine
 - Spool of wire
 - Automotive connector
 - Two components adhesive
-
-# Installation
